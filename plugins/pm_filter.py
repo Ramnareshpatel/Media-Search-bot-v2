@@ -286,10 +286,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='https://t.me/LXRYOUTUBERYT'),
+                    InlineKeyboardButton('Update Channel', url='https://t.me/Movies4youbackup'),
                 ]
                 ]
-            await query.message.edit(text="<b>Developer : <a href='https://t.me/malayalammoviesmmms'>꧁LXR=AMAL࿐</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\n Update Channel : <a href='https://t.me/LXRYOUTUBERYT'>ErrorXBotz</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="<b>Developer : <a href='https://t.me/Movies_4you'>會؄𝚂𝚄𝚁𝙰𝙹؄會</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\n Update Channel : <a href='https://t.me/Movies4youbackup'>ErrorXBotz</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
@@ -310,7 +310,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                     InlineKeyboardButton('📥 More Bots 📥', url='https://t.me/LXRYOUTUBERYT'),
+                     InlineKeyboardButton('📥 More Bots 📥', url='https://t.me/Movies4youbackup'),
                     ]
                     ]
                 
@@ -341,7 +341,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('📥 More Bots 📥', url='https://t.me/LXRYOUTUBERYT'),
+                        InlineKeyboardButton('📥 More Bots 📥', url='https://t.me/Movies4youbackup'),
                     ]
                     ]
                 
